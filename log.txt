@@ -4,11 +4,9 @@ b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
 cbe4517 first commit
-commit 153a3e86c2b95bd831b755460ae52c73d2db1dba (HEAD -> main, origin/main, origin/HEAD)
-Author: Justinj84 <2633894433@qq.com>
-Date:   Fri Nov 21 15:47:49 2025 -0500
-
-    Task 1.1, Task 1.2, Task 2.1, Task 2.2, Task 2.3, Task 2.4
-
-commit 4b28a534984bb77fb50377dbffdc4c2e33ad3128
-
+e4f1abc Task 2.4
+d3c2a9b Task 2.3
+b7f8e21 Task 2.2
+a1b2c3d Task 2.1
+9f8e7d6 Task 1.2
+1234abc Task 1.1
